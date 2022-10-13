@@ -1,0 +1,15 @@
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.AssemblyInfo.cs
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\csharp\registroConsola\bin\Debug\net6.0\registroConsola.exe
+C:\Users\Juan\Documents\csharp\registroConsola\bin\Debug\net6.0\registroConsola.deps.json
+C:\Users\Juan\Documents\csharp\registroConsola\bin\Debug\net6.0\registroConsola.runtimeconfig.json
+C:\Users\Juan\Documents\csharp\registroConsola\bin\Debug\net6.0\registroConsola.dll
+C:\Users\Juan\Documents\csharp\registroConsola\bin\Debug\net6.0\registroConsola.pdb
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.dll
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\refint\registroConsola.dll
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.pdb
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\registroConsola.genruntimeconfig.cache
+C:\Users\Juan\Documents\csharp\registroConsola\obj\Debug\net6.0\ref\registroConsola.dll
